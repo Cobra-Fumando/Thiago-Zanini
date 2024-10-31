@@ -16,5 +16,10 @@ Estou aprendendo programação, focando em C++. Também possuo pouco conheciment
 
 ---
 
+### 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+
+---
+
 ### 📫 Vamos nos conectar!
 Sinta-se à vontade para entrar em contato ou seguir meus projetos!
