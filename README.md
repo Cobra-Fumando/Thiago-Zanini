@@ -1,7 +1,7 @@
 # Olá, eu sou Thiago Zanini!
 
 ### 👨‍💻 Sobre mim
-Estou aprendendo programação, focando em C++. Também possuo pouco conhecimento de PHP. Estou entusiasmado para compartilhar meus projetos e contribuir para a comunidade de desenvolvedores, buscando constantemente aprimorar minhas habilidades e aprender com outros profissionais da área.
+Estou aprendendo programação, focando em C++ e Qt. Também possuo conhecimento prévio de PHP. Estou entusiasmado para compartilhar meus projetos e contribuir para a comunidade de desenvolvedores, buscando constantemente aprimorar minhas habilidades e aprender com outros profissionais da área.
 
 ---
 
@@ -12,7 +12,7 @@ Estou aprendendo programação, focando em C++. Também possuo pouco conheciment
 
 ### 🔧 C++
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
-
+[![Qt](https://img.shields.io/badge/Qt-6.8.0-41ad55?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
 
 ---
 
