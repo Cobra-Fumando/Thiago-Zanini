@@ -12,7 +12,7 @@ Estou aprendendo programação, focando em C++ e Qt. Também possuo conhecimento
 
 ### 🔧 C++
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
-[![Qt](https://img.shields.io/badge/Qt-6.8.0-41ad55?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
+[![Qt](https://img.shields.io/badge/Qt-6.8.1-41ad55?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
 
 ---
 
