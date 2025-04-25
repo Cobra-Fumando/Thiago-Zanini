@@ -7,6 +7,7 @@ Estou aprendendo programação, focando em C++ e Qt. Também possuo conhecimento
 
 ### 💻 Back-end
 [![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 
 ---
 
