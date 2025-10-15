@@ -1,5 +1,5 @@
 ### 👨‍💻 Sobre mim
-Estou aprendendo programação, focando em C++ e Qt. Também possuo conhecimento prévio de PHP. Estou entusiasmado para compartilhar meus projetos e contribuir para a comunidade de desenvolvedores, buscando constantemente aprimorar minhas habilidades e aprender com outros profissionais da área.
+Estou aprendendo programação, focando em C#. Estou entusiasmado para compartilhar meus projetos e contribuir para a comunidade de desenvolvedores, buscando constantemente aprimorar minhas habilidades e aprender com outros profissionais da área.
 
 ---
 
